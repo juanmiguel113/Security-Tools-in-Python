@@ -5,7 +5,7 @@ Nombre: Security-Tools-in-Python
  
 URL: https://github.com/Yamis27/Security-Tools-in-Python
  
-Autor: Luz Yamileth
+Autor: Luz Yamileth, Israel Alvarez, Juan Llumihuasi
  
 Lenguaje principal: Python
  
