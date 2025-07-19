@@ -37,4 +37,4 @@ CyberSecurity News. "Most Important Python Security Tools for Ethical Hackers" (
  
 Apriorit. "Python for Cybersecurity: Proven Tools for Your Product" (2025)
 
-Estas herramientos son de vital importancia para el desarrollo de actividades de ciberseguridad (JM)
+Estas herramientos son de vital importancia para el desarrollo de actividades de ciberseguridad (JM).
