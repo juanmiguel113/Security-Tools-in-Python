@@ -36,3 +36,5 @@ Panther Labs. "Python for Cybersecurity: Key Use Cases and Tools"
 CyberSecurity News. "Most Important Python Security Tools for Ethical Hackers" (2024)
  
 Apriorit. "Python for Cybersecurity: Proven Tools for Your Product" (2025)
+
+Estas herramientos son de vital importancia para el desarrollo de actividades de ciberseguridad (JM)
