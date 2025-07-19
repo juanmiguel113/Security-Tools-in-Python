@@ -5,7 +5,7 @@ Nombre: Security-Tools-in-Python
  
 URL: https://github.com/Yamis27/Security-Tools-in-Python
  
-Autor: Luz Yamileth
+Autor: Luz Yamileth, Israel Alvarez, Juan Llumihuasi
  
 Lenguaje principal: Python
  
@@ -43,3 +43,4 @@ Estas herramientos son de vital importancia para el desarrollo de actividades de
 ISRAEL ALVAREZ
 
 Este repositorio contiene una colección de herramientas de ciberseguridad desarrolladas en Python. Incluye scripts para analizar tráfico de red, escanear puertos, generar contraseñas seguras, aplicar reglas de firewall, calcular hashes, y más. Es útil para aprender y aplicar conceptos básicos de seguridad informática y administración de redes de forma práctica y sencilla.
+
