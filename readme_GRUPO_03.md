@@ -36,3 +36,11 @@ Panther Labs. "Python for Cybersecurity: Key Use Cases and Tools"
 CyberSecurity News. "Most Important Python Security Tools for Ethical Hackers" (2024)
  
 Apriorit. "Python for Cybersecurity: Proven Tools for Your Product" (2025)
+
+
+Estas herramientos son de vital importancia para el desarrollo de actividades de ciberseguridad (JM).
+
+ISRAEL ALVAREZ
+
+Este repositorio contiene una colección de herramientas de ciberseguridad desarrolladas en Python. Incluye scripts para analizar tráfico de red, escanear puertos, generar contraseñas seguras, aplicar reglas de firewall, calcular hashes, y más. Es útil para aprender y aplicar conceptos básicos de seguridad informática y administración de redes de forma práctica y sencilla.
+
